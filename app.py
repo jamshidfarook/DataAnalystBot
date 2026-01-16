@@ -106,7 +106,7 @@ if user_input:
 st.markdown(
     "<hr style='margin-top:40px; opacity:0.3;'>"
     "<div style='text-align:center; color:#888; font-size:12px;'>"
-    "© 2025 Jamshid Farook. All Rights Reserved."
+    "© 2026 Jamshid Farook. All Rights Reserved."
     "</div>",
     unsafe_allow_html=True
 )
